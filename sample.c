@@ -10,5 +10,4 @@
 
        printtf("Hi mar, Sterlien ni halabyo hehe")
 
-       printf("STEDS");
  }
