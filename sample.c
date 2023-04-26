@@ -8,6 +8,8 @@
 
 	printf("haluuuu yangyang dis heheheh!");
 
-       printtf("Hi mar, Sterlien ni halabyo hehe")
+       printtf("Hi mar, Sterlien ni halabyo hehe");
+
+       printf("STAGING");
 
  }
